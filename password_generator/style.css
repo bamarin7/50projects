@@ -41,7 +41,7 @@ h2 {
 }
 
 .result-container {
-  background-color: rgba(255, 255, 255, 0.5);
+  background-color: rgba(255, 255, 255, 0.3);
   display: flex;
   justify-content: flex-start;
   align-items: center;
@@ -97,7 +97,7 @@ h2 {
 }
 
 input[type='number'] {
-  background-color: rgba(255, 255, 255, 0.5);
+  background-color: rgba(255, 255, 255, 0.3);
   border: none;
   border-radius: 4px;
   padding: 4px;
